@@ -1,0 +1,4 @@
+Employee, Inigo Montoya, Henchman, Enforcement, The Sicilian, 0, 9/25/1987
+Employee, Rick Deckard, Blade Runner, Rep-Detect, Harry Bryant, 0, 6/25/1982
+Customer, The Dude, None, Inigo Montoya, 23145, 10000
+Business Partner, Tyler Durden, Project Mayhem, Rick Deckard, Club

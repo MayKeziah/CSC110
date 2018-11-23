@@ -1,0 +1,11 @@
+Quiz1 18 25
+Quiz2 24 25
+Quiz3 18 25
+Quiz4 23 25
+Exam1 35 100
+Exam2 73 100
+Part1 10 10
+Part2 10 10
+Part3 10 10
+box 10 10
+testex3 100 100

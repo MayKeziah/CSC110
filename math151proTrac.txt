@@ -1,0 +1,21 @@
+Math 151 Grade tracking:
+
+05/18/18
+Your grade results from 'math151Grade.txt' are as follows:
+Percent total: 54.12%
+Point total: 92/170
+
+05/22/18
+Your grade results from 'math151Grade.txt' are as follows:
+Percent total: 61.82%
+Point total: 136/220
+
+05/25/18
+Your grade results from 'math151grade.txt' are as follows:
+Percent total: 68.82%
+Point total: 234/340
+
+06/06/18
+Your grade results from 'math151Grade.txt' are as follows:
+Percent total: 71.73%
+Point total: 269/375

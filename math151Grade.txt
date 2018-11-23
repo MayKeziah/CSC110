@@ -1,0 +1,13 @@
+Quiz1 21 25
+Quiz2 24 25
+Quiz3 19 25
+Quiz4 20 25
+Quiz5 25 25
+Exam1 32 100
+Exam2 78 100
+Exam3 0 0
+Part1 10 10
+Part2 10 10
+Part3 10 10
+Part4 10 10
+boxEC 10 10
